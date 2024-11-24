@@ -78,5 +78,6 @@ You can find all the Figma files in this repository under the following GitHub l
 ---
 
 Feel free to fork, contribute, or share feedback! Happy designing!
+Thank you.
 
 ---
