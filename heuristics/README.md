@@ -35,11 +35,6 @@ All project deliverables are available in this repository. To access them:
 1. Visit my GitHub repository: [GitHub Repository Link](https://github.com/josie-opondo/UI/tree/main/heuristics)
 2. Navigate to the `Desirability_Testing_Project` folder to find all the files.
 
-## About
-
-**Author**: Wambita Sheila Fana  
-**GitHub**: [Wambita](https://github.com/Wambita)
-
 ## **Key Resources**
 
 - [Nielsen’s 10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
