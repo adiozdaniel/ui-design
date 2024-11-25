@@ -40,8 +40,8 @@ All project deliverables are available in this repository. To access them:
 3. **Design Screens**
 
 - **Purpose:** Showcase the app’s user flow.
-- **Screens:**  
-   - Homepage - Browsing content - Product page - Add to cart - Checkout
+- **Screens:**
+  - Homepage - Browsing content - Product page - Add to cart - Checkout
 
 4. **Animation**
 
@@ -50,8 +50,8 @@ All project deliverables are available in this repository. To access them:
 5. **Desirability Testing**
 
 - **Purpose:** Validate the app’s alignment with the intended values and emotions.
-- **Process:**  
-   - Select 2-5 adjectives that represent the app’s spirit. - Create a board with 25+ adjectives. - Conduct a test with 5 users and document their selected adjectives. - Provide suggestions for improvement if needed.
+- **Process:**
+  - Select 2-5 adjectives that represent the app’s spirit. - Create a board with 25+ adjectives. - Conduct a test with 5 users and document their selected adjectives. - Provide suggestions for improvement if needed.
 
 ## **File Naming Convention**
 
@@ -73,7 +73,7 @@ Example: Doe_John_StyleGuide_05242024_V1
 If you have any questions or feedback about this project, feel free to reach out:
 
 - **GitHub**: [@josie](https://github.com/josie-opondo)
-- **Email**: [josie-opondo@gmail.com]
+- **Email**: [email](mailto:josie-opondo@gmail.com)
 
 ---
 
